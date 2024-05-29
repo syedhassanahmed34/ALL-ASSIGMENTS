@@ -1,6 +1,13 @@
 document.addEventListener('DOMContentLoaded', function () {
     const assignments = [
         {
+            title: 'Shopping Cards',
+            description: 'This is made from javascript',
+            Date: '29-May-2024',
+            codeLink: 'https://github.com/syedhassanahmed34/Shopping-Cards',
+            hostedLink: 'https://syedhassanahmed34.github.io/Shopping-Cards/'
+        },
+        {
             title: 'Finance-App-Tracker',
             description: 'A finance app tracker is a digital tool that helps users manage their income, expenses, and savings in real-time with features like budgeting, expense categorization, and financial insights.',
             Date: '23-May-2024',
@@ -90,13 +97,6 @@ document.addEventListener('DOMContentLoaded', function () {
             Date: '11-JAN-2024',
             codeLink: 'https://github.com/syedhassanahmed34/css-image-gallery',
             hostedLink: 'https://syedhassanahmed34.github.io/css-image-gallery/'
-        },
-        {
-            title: 'Shopping Cards',
-            description: 'This is made from javascript',
-            Date: '29-May-2024',
-            codeLink: 'https://github.com/syedhassanahmed34/Shopping-Cards',
-            hostedLink: 'https://syedhassanahmed34.github.io/Shopping-Cards/'
         },
     ];
 
