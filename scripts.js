@@ -91,6 +91,13 @@ document.addEventListener('DOMContentLoaded', function () {
             codeLink: 'https://github.com/syedhassanahmed34/css-image-gallery',
             hostedLink: 'https://syedhassanahmed34.github.io/css-image-gallery/'
         },
+        {
+            title: 'Shopping Cards',
+            description: 'This is made from javascript',
+            Date: '29-May-2024',
+            codeLink: 'https://github.com/syedhassanahmed34/Shopping-Cards',
+            hostedLink: 'https://syedhassanahmed34.github.io/Shopping-Cards/'
+        },
     ];
 
     const assignmentsList = document.getElementById('assignments-list');
