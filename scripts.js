@@ -1,6 +1,13 @@
 document.addEventListener('DOMContentLoaded', function () {
     const assignments = [
         {
+            title: 'ToDo App',
+            description: 'This is a simple todo app where you can easily add your daily basis works or so many other things.',
+            Date: '5-June-2024',
+            codeLink: 'https://github.com/syedhassanahmed34/Todo-App',
+            hostedLink: 'https://syedhassanahmed34.github.io/Todo-App/'
+        },
+        {
             title: 'Shopping Cards',
             description: 'This is made from javascript',
             Date: '29-May-2024',
